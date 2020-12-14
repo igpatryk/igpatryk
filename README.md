@@ -1,5 +1,5 @@
 ## Hi, nice to see you. 👋
-Welcome to my page!
+Welcome to my page!<br>
 I'm Patryk Ignaczak - aka [igpatryk](https://github.com/igpatryk) - Polish highschool student :books:.<br>
 I'm currently living in Wloclawek, Poland. 
 - 🔭 I’m currently working on [python-na-maturze](https://github.com/igpatryk/python-na-maturze) - repo in which I'm learning to Polish Matura exam with Python.
